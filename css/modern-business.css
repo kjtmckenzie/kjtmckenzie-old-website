@@ -23,6 +23,12 @@ body {
     opacity: 0.8;
 }
 
+
+.small-gray {
+    padding-top:10px;
+    color:gray;
+}
+
 /* Home Page Carousel */
 
 header.carousel {
