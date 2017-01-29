@@ -6,7 +6,7 @@ image_row = \
 '''
         <div class="row">
             <div class="col-md-12">
-                <a href="portfolio-item.html">
+                <a href="#FILENAME#">
                     <img class="img-responsive" src="#FILENAME#" alt="">
                 </a>
             </div>
